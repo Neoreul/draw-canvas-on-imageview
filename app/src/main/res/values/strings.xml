@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Draw Canvas</string>
+    <string name="draw_text_on_bitmap">Draw text on Bitmap</string>
+    <string name="load_image">Load Image</string>
 </resources>
